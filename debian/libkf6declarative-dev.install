@@ -1,0 +1,3 @@
+usr/include/KF6/KDeclarative/
+usr/lib/*/cmake/KF6Declarative/
+usr/lib/*/libKF6CalendarEvents.so
