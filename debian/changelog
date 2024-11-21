@@ -1,3 +1,9 @@
+kf6-kdeclarative (6.6.0-2deepin1) unstable; urgency=medium
+
+  * add qml deps.
+
+ -- zhangyu <zhangyud@uniontech.com>  Thur, 21 Nov 2024 14:33:14 +0100
+
 kf6-kdeclarative (6.6.0-2) unstable; urgency=medium
 
   * Team upload.
